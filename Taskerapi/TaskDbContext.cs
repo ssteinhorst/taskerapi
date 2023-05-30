@@ -1,15 +1,4 @@
-﻿//using System;
-//namespace Taskerapi
-//{
-//	public class TaskDbContext
-//	{
-//		public TaskDbContext()
-//		{
-//		}
-//	}
-//}
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
 
